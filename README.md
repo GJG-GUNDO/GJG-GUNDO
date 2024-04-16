@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjg-gundo&label=Profile%20views&color=0e75b6&style=flat" alt="gjg-gundo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/gjg_gundo" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gjg_gundo?logo=twitter&style=for-the-badge" alt="https://twitter.com/gjg_gundo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/gjg_gundo" target="blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA/0lEQVR4AbXPIazCMACE4d+L2qoZFEGSIGcRc/gJJB5XMzGJmK9EN0HMi+qaibkKVF1txdQe4g0YzPK5yyWXHL9TaPNQ89LojH87N1rbJcXkMF4Fk31UMrf34hm14KUeoQxGArALHTMuQD2cAWQfJXOpgTbksGr9ng8qluShJTPhyCdx63POg7rEim95ZyR68I1ggQpnCEGwyPicw6hZtPEGmnhkycqOio1zm6XuFtyw5XDXfGvuau0dXHzJp8pfBPuhIXO9ZK5ILUCdSvLYMpc6ASBtl3EaC97I4KaFaOCaBE9Zn5jUsVqR2vcTJZO1DdbGoZryVp94Ka/mQfE7f2T3df0WBhLDAAAAAElFTkSuQmCC" alt="https://twitter.com/gjg_gundo" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps & MERN Stack**
 
